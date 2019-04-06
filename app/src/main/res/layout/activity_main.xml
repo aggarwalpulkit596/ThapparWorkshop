@@ -18,7 +18,6 @@
         android:layout_width="300dp"
         android:layout_height="200dp"
         android:textSize="42sp"
-        android:onClick="hello"
         android:textColor="@android:color/white"
         android:text="Hello Thappar" />
 
